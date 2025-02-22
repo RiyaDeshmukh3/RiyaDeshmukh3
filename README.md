@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiyaDeshmukh3
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Computer Networking and Kali Linux
+- 🌱 I’m currently learning Computer Networking, OS, Programmng
 - 📫 How to reach me https://www.linkedin.com/in/riya-deshmukh-333r/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: As I learn cybersecurity and dance, imagine choreographing a routine that merges cyber defenses with rhythmic moves.
